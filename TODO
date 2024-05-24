@@ -1,0 +1,12 @@
+- Add user skill-based mechanic
+- Continue working on lie
+    - Weak clubs on each lie have a better chance of hitting it shorter or into poor lie.
+- Add different hole specs
+    - Random number generates yardage, par is decided from there.
+    - Different sets of hard-coded courses
+    - Add built-in real life courses (Pebble Beach, etc.)
+- Add dynamic scorecard
+    - At bottom of page
+    - Shows hole information (shots, yards, par, green highlight denotes current hole)
+    - Circles and squares for birdie/bogey
+- Refactor Code

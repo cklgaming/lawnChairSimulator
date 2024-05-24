@@ -1,3 +1,37 @@
 head {
     color: black;
 }
+
+#gameBox {
+    max-width: 750px;
+    max-height: 600px;
+    background-color: lightgrey;
+    margin: 30px auto 0px;
+    padding: 10px;
+}
+
+.buttons,
+.info {
+    border: 1px solid black;
+    padding: 5px;
+    color: black;
+    margin: 10px;
+}
+
+.info {
+    padding-right: 10px;
+}
+
+button {
+    cursor: pointer;
+    color: black;
+    background-color: lightgreen;
+    background-image: linear-gradient(lightgreen, lightseagreen);
+    border: 3px solid lightgreen;
+}
+
+#msg {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+}
